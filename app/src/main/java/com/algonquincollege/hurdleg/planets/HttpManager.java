@@ -1,4 +1,4 @@
-package com.algonquincollege.hurdleg.doorsopen;
+package com.algonquincollege.hurdleg.planets;
 
 import java.io.BufferedReader;
 import java.io.IOException;
